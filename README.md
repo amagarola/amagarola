@@ -95,11 +95,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
 
 ### CI/CD
+<p>
 <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
 <img src="https://img.shields.io/badge/jenkins-%23004577?style=for-the-badge&logo=jenkins&logoColor=black">
 <img src="https://img.shields.io/badge/azure%20devops-blue?style=for-the-badge&logo=azure%20devops&logoColor=black">
 <img src="https://img.shields.io/badge/argocd-red?style=for-the-badge&logo=argo&logoColor=white">
-
+</p>
 
 ### Monitoring/Logging
 
