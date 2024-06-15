@@ -49,42 +49,58 @@
 </div>
 
 # Tools
+### Cloud
+<img src="https://img.shields.io/badge/AWS-orange.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
+<img src="https://img.shields.io/badge/Google%20Cloud-white.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
+<img src="https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=black" alt="Azure">
 
 
 
 
-<ul>
-  <!-- <li>
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
-  </li> -->
-  <li>
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
-    <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
-  </li>
-  <!-- <li>
-    <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black" alt="Lambda">
-    <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black" alt="MageAI">
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=black" alt="Airflow">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=black" alt="Spark">
-    <img src="https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=black" alt="DBT">
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=black" alt="Kafka">
-  </li>-->
-  <li>
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Kubernetes">
-  </li>
-  <li>CI/CD:
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
-    <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
-    <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
-  </li>
-</ul>  
+<!-- <li>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
+</li> -->
+
+<!-- <li>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black" alt="Lambda">
+<img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black" alt="MageAI">
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=black" alt="Airflow">
+</li>
+<li>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=black" alt="Spark">
+<img src="https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=black" alt="DBT">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=black" alt="Kafka">
+</li>-->
+
+### Containers/Orchestration
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=kubernetes&logoColor=black" alt="Kubernetes">
+
+### VCS
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
+<img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
+<img src="https://img.shields.io/badge/gitlab-%236e6e6e?style=for-the-badge&logo=gitlab&logoColor=black" alt="Github">
+<img src="https://img.shields.io/badge/bitbucket-%236e6e6e?style=for-the-badge&logo=bitbucket&logoColor=black" alt="Github">
+
+
+
+### IaC
+<img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
+
+### Scripting
+### CI/CD
+<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
+<img src="https://img.shields.io/badge/jenkins-%23004577?style=for-the-badge&logo=jenkins&logoColor=black">
+<img src="https://img.shields.io/badge/azure%20devops-blue?style=for-the-badge&logo=azure%20devops&logoColor=black">
+<img src="https://img.shields.io/badge/argocd-%23004577?style=for-the-badge&logo=argo&logoColor=black">
+
+
+### Monitoring/Logging
+
+
 
 <!-- <div align="left">
 <h2 align="left">👨🏽‍💻 Github profile</a></h2>
