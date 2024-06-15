@@ -54,18 +54,18 @@
 
 
 <ul>
-  <li>
+  <!-- <li>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=black" alt="Pytorch">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=black" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=black" alt="MySQL">
-  </li>
+  </li> -->
   <li>
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=black" alt="AWS">
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
     <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
   </li>
-  <li>
+  <!-- <li>
     <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=black" alt="Lambda">
     <img src="https://img.shields.io/badge/Mage%20AI-43bef9.svg?style=for-the-badge&logo=MageAI&logoColor=black" alt="MageAI">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=black" alt="Airflow">
@@ -74,21 +74,19 @@
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=black" alt="Spark">
     <img src="https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=black" alt="DBT">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=black" alt="Kafka">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=black" alt="BigQuery">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI">
-    <img src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=black" alt="Looker">
-  </li>
+  </li>-->
   <li>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
+    <img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Kubernetes">
+  </li>
+  <li>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
     <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
     <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
   </li>
 </ul>  
 
-<div align="left">
+<!-- <div align="left">
 <h2 align="left">👨🏽‍💻 Github profile</a></h2>
 </div>
 <div align="left">
@@ -275,4 +273,4 @@
 <a href="https://github.com/Andresmup">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmup&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </a>
-</p> -->
+</p> --> -->
