@@ -25,9 +25,7 @@
   </a>
 </div>
 
-<div align="left">
-<h2 align="left">✔️ Certifications badgets</a></h2>
-</div>
+# Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110" alt="Github Foundations">
