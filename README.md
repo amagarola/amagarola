@@ -15,8 +15,7 @@
 </ul> 
 </div>-->
 
-# Adrian Saenz de Magarola 
-## Platform Engineer / DevOps
+# Adrian Saenz de Magarola - Platform Engineer / DevOps
 
 <div align="left">
   <a href='https://www.linkedin.com/in/adrianmagarola'>
@@ -29,10 +28,10 @@
   <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110" alt="Github Foundations">
   </a>
-  <a href="hhttps://www.credly.com/earner/earned/badge/32867d58-d082-43b2-9344-6c346611440f/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/32867d58-d082-43b2-9344-6c346611440f/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Solutions-Architect-Associate.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/68bca581-63b9-4e24-b741-e8bf6ff80fa5/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/68bca581-63b9-4e24-b741-e8bf6ff80fa5/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-SysOps.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
   </a>
   <a href="" target="_blank">
@@ -44,14 +43,16 @@
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
   </a>
  -->
-  <a href="https://www.credly.com/earner/earned/badge/3c796c75-8435-40ac-8f3b-f3db2c95e9ab/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/3c796c75-8435-40ac-8f3b-f3db2c95e9ab/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/terraform003.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
   </a>
 </div>
 
-<!-- <div align="left">
-<h2 align="left">🔥 Skillset</a></h2>
-</div>
+# Tools
+![My Image](https://camo.githubusercontent.com/48e8517a5a4cec2b2fe5e02b5ebed466d159207b46bdc3412123b39fada8fbef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d626c61636b "This is my image")
+
+
+
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
