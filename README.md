@@ -15,9 +15,8 @@
 </ul> 
 </div>-->
 
-# Adrian Saenz de Magarola - Platform Engineer / DevOps
-
-![My Image](logos/cka.png "This is my image")
+# Adrian Saenz de Magarola 
+## Platform Engineer / DevOps
 
 <div align="left">
   <a href='https://www.linkedin.com/in/adrianmagarola'>
