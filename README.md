@@ -49,7 +49,7 @@
 </div>
 
 # Tools
-![My Image](https://camo.githubusercontent.com/48e8517a5a4cec2b2fe5e02b5ebed466d159207b46bdc3412123b39fada8fbef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d626c61636b "This is my image")
+
 
 
 
@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Docker">
     <img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=black" alt="Kubernetes">
   </li>
-  <li>
+  <li>CI/CD:
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
     <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
     <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%23004577?style=for-the-badge&logo=github-actions&logoColor=black">
@@ -273,4 +273,4 @@
 <a href="https://github.com/Andresmup">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andresmup&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 </a>
-</p> --> -->
+</p> -->
