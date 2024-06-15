@@ -32,7 +32,7 @@
 </div>
 <div align="left">
   <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="100" alt="Github Foundations">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110" alt="Github Foundations">
   </a>
   <a href="hhttps://www.credly.com/earner/earned/badge/32867d58-d082-43b2-9344-6c346611440f/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Solutions-Architect-Associate.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
