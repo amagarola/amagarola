@@ -37,6 +37,21 @@
   <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
   </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/b3df323c-9af9-4d43-85d6-9d19a537e221/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Andresmup/AWS-Cloud-Practitioner/main/images/aws-certified-cloud-practitioner.png" height="100" alt="AWS Certified Cloud Practitioner">
+  </a>
 </div>
 
 <!-- <div align="left">
