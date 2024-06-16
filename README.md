@@ -50,10 +50,11 @@
 
 # Tools
 ### Cloud
+<p>
 <img src="https://img.shields.io/badge/AWS-orange.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Google%20Cloud-grey.svg?style=for-the-badge&logo=Google-Cloud&logoColor=black" alt="GCP">
 <img src="https://img.shields.io/badge/Azure-4285F4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-
+</p>
 
 
 
@@ -76,23 +77,30 @@
 </li>-->
 
 ### Containers/Orchestration
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Kubernetes-2496ED.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
 
 ### VCS
+<p>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black" alt="GIT">
 <img src="https://img.shields.io/badge/GitHub-%236e6e6e?style=for-the-badge&logo=github&logoColor=black" alt="Github">
 <img src="https://img.shields.io/badge/gitlab-%236e6e6e?style=for-the-badge&logo=gitlab&logoColor=black" alt="Github">
 <img src="https://img.shields.io/badge/bitbucket-%236e6e6e?style=for-the-badge&logo=bitbucket&logoColor=black" alt="Github">
-
+</p>
 
 
 ### IaC
+<p>w
 <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
+</p>
 
 ### Scripting
+<p>
 <img src="https://img.shields.io/badge/bash-gree.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
+</p>
 
 ### CI/CD
 <p>
