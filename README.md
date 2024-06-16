@@ -92,7 +92,7 @@
 
 
 ### IaC
-<p>w
+<p>
 <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=black" alt="Terraform">
 </p>
 
@@ -111,7 +111,11 @@
 </p>
 
 ### Monitoring/Logging
-
+<p>
+<img src="https://img.shields.io/badge/grafana-red?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/elasticsearch-red?style=for-the-badge&logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/prometheus-red?style=for-the-badge&logo=prometheus&logoColor=white">
+</p>
 
 
 <!-- <div align="left">
