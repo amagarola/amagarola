@@ -18,6 +18,7 @@ crash.*.log
 *.tgz
 .chart-releases/
 .tmp/
+/.DS_Store
 *.bak
 *.swp
 *.swo
