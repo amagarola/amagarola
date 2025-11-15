@@ -26,25 +26,31 @@
 # Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110" alt="Github Foundations">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110">
+  </a>
+    <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cks.png?raw=true" height="110">
+  </a>
+    <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-DevOps.png?raw=true" height="110">
   </a>
   <a href="https://www.credly.com/badges/32867d58-d082-43b2-9344-6c346611440f/public_url" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Solutions-Architect-Associate.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Solutions-Architect-Associate.png?raw=true" height="100">
   </a>
   <a href="https://www.credly.com/badges/68bca581-63b9-4e24-b741-e8bf6ff80fa5/public_url" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-SysOps.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-SysOps.png?raw=true" height="100">
   </a>
   <a href="" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Developer.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Developer.png?raw=true" height="100">
   </a>
   <a href="" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Data-Engineer.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Data-Engineer.png?raw=true" height="100">
   </a>  <!-- <a href="" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="100">
   </a>
  -->
   <a href="https://www.credly.com/badges/3c796c75-8435-40ac-8f3b-f3db2c95e9ab/public_url" target="_blank">
-    <img src="https://github.com/amagarola/amagarola/blob/main/logos/terraform003.png?raw=true" height="100" alt="AWS Certified Cloud Practitioner">
+    <img src="https://github.com/amagarola/amagarola/blob/main/logos/terraform003.png?raw=true" height="100">
   </a>
 </div>
 
