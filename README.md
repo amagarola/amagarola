@@ -27,13 +27,13 @@
 <div align="left">
   <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/cka.png?raw=true" height="110">
-  </a>
+  <!-- </a>
     <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/cks.png?raw=true" height="110">
-  </a>
-    <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
+  </a> -->
+    <!-- <a href="https://www.credly.com/badges/355b3dee-260a-4ff6-8bd5-3a9fde470272/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-DevOps.png?raw=true" height="110">
-  </a>
+  </a> -->
   <a href="https://www.credly.com/badges/32867d58-d082-43b2-9344-6c346611440f/public_url" target="_blank">
     <img src="https://github.com/amagarola/amagarola/blob/main/logos/AWS-Solutions-Architect-Associate.png?raw=true" height="100">
   </a>
